@@ -1,6 +1,7 @@
 <!---
 {
   "id": "bd1f3943-c439-497a-a6a9-513c6ed7ce80",
+  "teaches": "The Naive Processor",
   "depends_on": [],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-28",
